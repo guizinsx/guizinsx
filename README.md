@@ -20,7 +20,3 @@ Desenvolvedor focado em **Python** e automação, com experiência em desenvolvi
 | [Registro-Aluno-Python](https://github.com/guizinsx/Registro-Aluno-Python) | Sistema desktop de cadastro de alunos com upload de fotos | Python, Tkinter |
 | [PdmChat](https://github.com/guizinsx/PdmChat) | App Android de chat | Kotlin |
 | [sudokuPW4](https://github.com/guizinsx/sudokuPW4) | Jogo de Sudoku no navegador | React, Vite |
-
-## 📊 Linguagens mais usadas
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guizinsx&layout=compact&hide_border=true)
